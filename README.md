@@ -24,17 +24,20 @@
 - **🗣️ Bilingual Teleprompter:** Menampilkan maksud pembicara dalam bahasa ibu Anda sekaligus menyiapkan kalimat respons dalam bahasa lawan bicara untuk langsung diucapkan di depan kamera.
 - **📋 Generator Notulensi Rapat (Auto MoM):** Menyusun rekaman percakapan rapat menjadi dokumen *Minutes of Meeting* rapi yang siap diunduh ke format Markdown (`.md`).
 
+### 💳 Pemesanan Lisensi Aura PRO (Bulanan / Tahunan)
+Lisensi Aura PRO dikunci khusus pada **Email Akun Browser** Anda (*Email-Bound License*). Untuk pemesanan dan aktivasi:
+- 💬 **WhatsApp:** [0812-6000-6666](https://wa.me/6281260006666?text=Halo%20Admin%20Aura%20AI%2C%20saya%20ingin%20berlangganan%20Lisensi%20Aura%20PRO%20(Bulanan%2FTahunan))
+- ✉️ **Email:** [arahmand99@gmail.com](mailto:arahmand99@gmail.com?subject=Pemesanan%20Lisensi%20Aura%20AI%20PRO)
+- 🏷️ **Harga Paket:** Bulanan **Rp 49.000** (`$4.99/bln`) | Tahunan **Rp 490.000** (`$49/thn` — Hemat 2 Bulan)
+
 ---
 
 ## 🛠️ Cara Instalasi (Developer / Load Unpacked)
 
-1. Unduh atau *clone* repositori ini:
-   ```bash
-   git clone https://github.com/camanit/AuraAIAsisstant.git
-   ```
+1. Unduh file **`Aura-AI-Assistant-v1.5.0.zip`** dari halaman [**Releases Resmi v1.5.0**](https://github.com/camanit/AuraAIAsisstant-Free/releases/tag/v1.5.0) lalu ekstrak (*Unzip*) ke folder di komputer Anda.
 2. Buka browser berbasis Chromium (Google Chrome, Microsoft Edge, Brave, Arc) dan kunjungi `chrome://extensions/`.
 3. Aktifkan sakelar **Developer mode** di pojok kanan atas.
-4. Klik tombol **Load unpacked** di pojok kiri atas, lalu pilih folder proyek `Aura AI Assistant`.
+4. Klik tombol **Load unpacked** di pojok kiri atas, lalu pilih folder hasil ekstrak `Aura AI Assistant`.
 5. Klik ikon **✦ Aura AI** di toolbar browser untuk membuka **Side Panel**.
 
 ---
